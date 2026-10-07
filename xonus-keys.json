@@ -1,0 +1,19 @@
+{
+  "master": ["XONUS-TEAM-2HEJ"],
+  "resellers": [
+    {
+      "key": "XONUS-TEAM-9EHT",
+      "name": "Budi",
+      "expire": "2027-12-31",
+      "quota": 100,
+      "used": 0
+    },
+    {
+      "key": "XONUS-TEAM-OSYT",
+      "name": "Andi",
+      "expire": "2027-06-30",
+      "quota": 50,
+      "used": 0
+    }
+  ]
+}
